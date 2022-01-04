@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace ProgramingCSharpExamRef70_483.Chapter1.Objective1._1
+namespace ProgramingCSharpExamRef70_483.Chapter1.Objective1_1
 {
     //LISTING 1-3 Using the ParameterizedThreadStart
     public class LISTING1_3
