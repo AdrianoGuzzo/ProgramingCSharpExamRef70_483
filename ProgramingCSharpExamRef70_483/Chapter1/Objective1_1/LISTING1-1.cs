@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 
 namespace ProgramingCSharpExamRef70_483.Chapter1.Objective1_1
@@ -18,7 +16,7 @@ namespace ProgramingCSharpExamRef70_483.Chapter1.Objective1_1
             }
         }
         //exemplo de execução de um thread, normalmente não é recomendado usar thread na aplicação, 
-        //existe outras formas mais recomendadas. 
+        //existe outras formas mais recomendadas como task. 
         //A vantagem de usar thread é ter mais controle sobre a mesma, como por exemplo, determinar prioridade(Priority)
         public static void Start()
         {           

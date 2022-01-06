@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 
 namespace ProgramingCSharpExamRef70_483.Chapter1.Objective1_1
