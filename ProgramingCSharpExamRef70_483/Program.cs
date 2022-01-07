@@ -7,6 +7,12 @@
 
 
 
+
+
+
+
+
+
             #region Objective 1.1: Implement multithreading and asynchronous processing
             #region Understanding threads            //Chapter1.Objective1_1.LISTING1_1.Start();
                                                       //Chapter1.Objective1_1.LISTING1_2.Start();
@@ -30,9 +36,14 @@
 
             #region Using the Parallel class
             //Chapter1.Objective1_1.LISTING1_16.Start();
-            Chapter1.Objective1_1.LISTING1_17.Start();
+            //Chapter1.Objective1_1.LISTING1_17.Start();
 
 
             #endregion
-
+            #region Using the Parallel class
+            //Chapter1.Objective1_1.LISTING1_18.Start();
+            //Chapter1.Objective1_1.LISTING1_19.Start();
+            //Chapter1.Objective1_1.LISTING1_20.Start().Wait();
+            Chapter1.Objective1_1.LISTING1_21.Start().Wait();
+            #endregion
             #endregion        }    }}
