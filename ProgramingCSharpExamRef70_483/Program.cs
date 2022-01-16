@@ -1,9 +1,8 @@
-﻿namespace ProgramingCSharpExamRef70_483{    class Program    {        static void Main(string[] args)        {
+﻿using System;
+using System.Collections;
+using System.Linq;
 
-
-
-
-
+namespace ProgramingCSharpExamRef70_483{    class Program    {        static void Main(string[] args)        {
 
 
 
@@ -44,6 +43,22 @@
             //Chapter1.Objective1_1.LISTING1_18.Start();
             //Chapter1.Objective1_1.LISTING1_19.Start();
             //Chapter1.Objective1_1.LISTING1_20.Start().Wait();
-            Chapter1.Objective1_1.LISTING1_21.Start().Wait();
+            //Chapter1.Objective1_1.LISTING1_21.Start().Wait();
+            #endregion
+
+            #region Using Parallel Language Integrated Query (PLINQ)
+            //Chapter1.Objective1_1.LISTING1_22.Start();
+            //Chapter1.Objective1_1.LISTING1_23.Start();       
+            //Chapter1.Objective1_1.LISTING1_24.Start();
+            //Chapter1.Objective1_1.LISTING1_25.Start();
+            //Chapter1.Objective1_1.LISTING1_26.Start();
+            Chapter1.Objective1_1.LISTING1_27.Start();
+
+
+
+
+
+
+
             #endregion
             #endregion        }    }}
