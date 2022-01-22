@@ -2,24 +2,22 @@
 using System.Collections;
 using System.Linq;
 
-namespace ProgramingCSharpExamRef70_483{    class Program    {        static void Main(string[] args)        {
+namespace ProgramingCSharpExamRef70_483
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Objective 1.1: Implement multithreading and asynchronous processing
 
-
-
-
-
-
-
-
-
-            #region Objective 1.1: Implement multithreading and asynchronous processing
-            #region Understanding threads            //Chapter1.Objective1_1.LISTING1_1.Start();
-                                                      //Chapter1.Objective1_1.LISTING1_2.Start();
-                                                      //Chapter1.Objective1_1.LISTING1_3.Start();
-                                                      //Chapter1.Objective1_1.LISTING1_4.Start();
-                                                      //Chapter1.Objective1_1.LISTING1_5.Start();
-                                                      //Chapter1.Objective1_1.LISTING1_6.Start();
-                                                      //Chapter1.Objective1_1.LISTING1_7.Start();
+            #region Understanding threads
+            //Chapter1.Objective1_1.LISTING1_1.Start();
+            //Chapter1.Objective1_1.LISTING1_2.Start();
+            //Chapter1.Objective1_1.LISTING1_3.Start();
+            //Chapter1.Objective1_1.LISTING1_4.Start();
+            //Chapter1.Objective1_1.LISTING1_5.Start();
+            //Chapter1.Objective1_1.LISTING1_6.Start();
+            //Chapter1.Objective1_1.LISTING1_7.Start();
             #endregion
 
             #region Using Tasks
@@ -37,9 +35,9 @@ namespace ProgramingCSharpExamRef70_483{    class Program    {        static
             //Chapter1.Objective1_1.LISTING1_16.Start();
             //Chapter1.Objective1_1.LISTING1_17.Start();
 
-
             #endregion
-            #region Using the Parallel class
+
+            #region Using async and await
             //Chapter1.Objective1_1.LISTING1_18.Start();
             //Chapter1.Objective1_1.LISTING1_19.Start();
             //Chapter1.Objective1_1.LISTING1_20.Start().Wait();
@@ -52,13 +50,19 @@ namespace ProgramingCSharpExamRef70_483{    class Program    {        static
             //Chapter1.Objective1_1.LISTING1_24.Start();
             //Chapter1.Objective1_1.LISTING1_25.Start();
             //Chapter1.Objective1_1.LISTING1_26.Start();
-            Chapter1.Objective1_1.LISTING1_27.Start();
-
-
-
-
-
-
-
+            //Chapter1.Objective1_1.LISTING1_27.Start();
             #endregion
-            #endregion        }    }}
+
+            #region Using concurrent collections
+            //Chapter1.Objective1_1.LISTING1_28.Start();
+            //Chapter1.Objective1_1.LISTING1_29.Start();
+            //Chapter1.Objective1_1.LISTING1_30.Start();
+            //Chapter1.Objective1_1.LISTING1_31.Start();
+            //Chapter1.Objective1_1.LISTING1_32.Start();
+            //Chapter1.Objective1_1.LISTING1_33.Start();
+            Chapter1.Objective1_1.LISTING1_34.Start();
+            #endregion
+            #endregion
+        }
+    }
+}
