@@ -8,8 +8,15 @@ namespace ProgramingCSharpExamRef70_483
     {
         static void Main(string[] args)
         {
-            #region Objective 1.1: Implement multithreading and asynchronous processing
+            //GetObjective1_1();
+            GetObjective1_2();
+        }
 
+        /// <summary>
+        /// Objective 1.1: Implement multithreading and asynchronous processing
+        /// </summary>
+        public static void GetObjective1_1()
+        {
             #region Understanding threads
             //Chapter1.Objective1_1.LISTING1_1.Start();
             //Chapter1.Objective1_1.LISTING1_2.Start();
@@ -62,6 +69,23 @@ namespace ProgramingCSharpExamRef70_483
             //Chapter1.Objective1_1.LISTING1_33.Start();
             Chapter1.Objective1_1.LISTING1_34.Start();
             #endregion
+        }
+        /// <summary>
+        /// Objective 1.2: Manage multithreading
+        /// </summary>
+        public static void GetObjective1_2()
+        {
+            #region Synchronizing resources
+            //Chapter1.Objective1_2.LISTING1_35.Start();
+            //Chapter1.Objective1_2.LISTING1_36.Start();
+            //Chapter1.Objective1_2.LISTING1_37.Start();
+            //Chapter1.Objective1_2.LISTING1_38.Start();
+            #endregion
+
+            #region Volatile class/The Interlocked class
+            //Chapter1.Objective1_2.LISTING1_39;
+            //Chapter1.Objective1_2.LISTING1_40.Start();
+            //Chapter1.Objective1_2.LISTING1_41.Start();
             #endregion
         }
     }
