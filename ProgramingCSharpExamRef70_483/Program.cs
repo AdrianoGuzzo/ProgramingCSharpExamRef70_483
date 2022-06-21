@@ -35,7 +35,7 @@ namespace ProgramingCSharpExamRef70_483
             //Chapter1.Objective1_1.LISTING1_12.Start();
             //Chapter1.Objective1_1.LISTING1_13.Start();
             //Chapter1.Objective1_1.LISTING1_14.Start();
-            //Chapter1.Objective1_1.LISTING1_15.Start();
+            Chapter1.Objective1_1.LISTING1_15.Start();
             #endregion
 
             #region Using the Parallel class
@@ -86,6 +86,12 @@ namespace ProgramingCSharpExamRef70_483
             //Chapter1.Objective1_2.LISTING1_39;
             //Chapter1.Objective1_2.LISTING1_40.Start();
             //Chapter1.Objective1_2.LISTING1_41.Start();
+            #endregion
+
+            #region Canceling tasks
+            //Chapter1.Objective1_2.LISTING1_42.Start();
+            //Chapter1.Objective1_2.LISTING1_43.Start();
+            Chapter1.Objective1_2.LISTING1_44.Start();
             #endregion
         }
     }
